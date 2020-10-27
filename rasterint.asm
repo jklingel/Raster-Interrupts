@@ -10,7 +10,7 @@ border   = $d021  ; border color
 
 
          *= $0801
-; Start adress BASIC command:
+; Start address BASIC command:
 ; 2018 SYS 2064:NEW
          .word main-2,2018
          .byte $9e
